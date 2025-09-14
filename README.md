@@ -9,11 +9,3 @@ It shows how blockchain ensures security, transparency, and tamper detection in 
 - Tamper detection for integrity  
 - User-friendly Streamlit interface  
 
-## Installation
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/medselsabil/blockchain-voting.git
-cd blockchain-voting
-pip install -r requirements.txt
-
